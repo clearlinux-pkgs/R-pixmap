@@ -4,7 +4,7 @@
 #
 Name     : R-pixmap
 Version  : 0.4.12
-Release  : 6
+Release  : 7
 URL      : https://cran.r-project.org/src/contrib/pixmap_0.4-12.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/pixmap_0.4-12.tar.gz
 Summary  : Bitmap Images / Pixel Maps
